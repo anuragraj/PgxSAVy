@@ -3,24 +3,40 @@
 </div>
 
 # PgxSAVy
-PgxSAVy is a tool for quality control and annotation of variant peptides identified in proteogenomics. It has demonstrated excellent performance across a wide range of datasets. PgxSAVy is suitable for rescoring variant proteogenomics search results as well as evaluating the quality of variant peptides identified in proteogenomics. PgxSAVy is available as a standalone tool. 
+PgxSAVy is a tool for quality control and annotation of variant peptides identified in proteogenomics. It has demonstrated excellent performance across a wide range of datasets. PgxSAVy is suitable for rescoring variant proteogenomics search results as well as evaluating the quality of variant peptides identified in proteogenomics. PgxSAVy is available as a standalone tool, providing convenience and accessibility.  
 
 ## Features
-### SAV quality checks from pgx searches
-### Match quality checks
-### Global search parameters (like Search engine counts , if multiple search tools used) and Number of sibling PSMs
-### Isobaric checks with opther amino acids
-### Checks with wild type peptide quality
-### Checks with positional variant decoys
+PgxSAVy offers quality checks specifically designed for proteogenomics searches, ensuring accurate and reliable results. The tool includes match quality checks to validate the quality and reliability of the identified variant peptides. It also performs isobaric checks, comparing variant peptides with other amino acids to identify potential similarities or discrepancies and using positional variant decoys to assess and validate the positional accuracy of identified variant peptides.
+- ### SAV quality checks from proteogenomics searches
+- ### Match quality checks
+- ### Global search parameters (like Search engine counts , if multiple search tools used) and number of sibling PSMs
+- ### Isobaric checks with other amino acids
+- ### Checks with wild type peptide quality
+- ### Checks with positional variant decoys   
 
-PgxSAVy is implemented in the cross-platform Perl programming language and can be used on computers running Windows, Linux, or Mac OS X. PgxSAVy is freely available for academic use.
+## Installation and Download
+PgxSAVy is implemented in the cross-platform Perl programming language and can be used on computers running Windows, Linux, or Mac OS X. PgxSAVy is freely available for academic use. You will need to download and setup Perl and modules to use PgxSAVy. See instructions for [downloading and setting up PgxSAVy](https://github.com/anuragraj/PgxSAVy/wiki/Installation).
 
-PgxSAVy can read inputs and write outouts in tab seperated text formats, making it easy to use. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki), including a list of [Frequently Asked Questions](). Example sample files can be found [here]().
+## Supported file formats
+- ### Tab Seperated Text format
+PgxSAVy can read inputs and write outputs in tab seperated text formats, making it easy to use. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki), including a list of [Frequently Asked Questions](https://github.com/anuragraj/PgxSAVy/wiki/faqs). Example sample files can be found [here](https://github.com/anuragraj/PgxSAVy/wiki/examples).
+
+- ### EuGenoSuite Output
+PgxSAVy can read [EuGenoSuite](https://github.com/anuragraj/EuGenoSuite) proteogenomic search output directly. 
+
+## Usage
+PgxSAVy is a command line tool. It can be used through Command Prompt on Windows and Terminal on Linux and Mac OS X. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki/usage) for more details.
 
 
-## Input Formats
-### TSV
-### EuGenoSuite Output
+## License
+PgxSAVy is licensed under the [CC0-1.0 license](https://github.com/anuragraj/PgxSAVy/blob/main/LICENSE).
 
 
+## Contact
+If you have any questions, comments, or suggestions, please contact Anurag Raj at anurag.igib@gmail.com or Dr Amit Kumar Yadav at amit.yadav@thsti.res.in.
 
+## Citation
+If you use PgxSAVy in your research, please cite the following publication:
+```
+Raj, Anurag, Suruchi Aggarwal, Amit Kumar Yadav, and Debasis Dash. "Quality control and annotation of variant peptides identified through proteogenomics." bioRxiv (2023): 2023-05.
+```
