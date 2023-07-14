@@ -7,12 +7,12 @@ PgxSAVy is a tool for quality control and annotation of variant peptides identif
 
 ## Features
 PgxSAVy offers quality checks specifically designed for proteogenomics searches, ensuring accurate and reliable results. The tool includes match quality checks to assess the quality and reliability of the identified variant peptides. It also performs isobaric checks, comparing variant peptides with other amino acids to identify potential similarities or discrepancies and using positional variant decoys to assess and validate the positional accuracy of identified variant peptides. The following feature checks are used for calculating the qulaity scores of variant peptides:
-- ### SAV quality checks from proteogenomics searches
-- ### Match quality checks
-- ### Global search parameters (like Search engine counts , if multiple search tools used) and number of sibling PSMs
-- ### Isobaric checks with other amino acids
-- ### Checks with wild type peptide quality
-- ### Checks with positional variant decoys   
+-  SAV quality checks from proteogenomics searches
+-  Match quality checks
+-  Global search parameters (like Search engine counts , if multiple search tools used) and number of sibling PSMs
+-  Isobaric checks with other amino acids
+-  Checks with wild type peptide quality
+-  Checks with positional variant decoys   
 
 ## Installation and Download
 PgxSAVy is implemented in the cross-platform Perl programming language and is platform independent i.e. can be used on computers running Windows, Linux, or Mac OS X. PgxSAVy is freely available for academic use. You will need to download and setup Perl and some modules to use PgxSAVy. See instructions for [downloading and setting up PgxSAVy](https://github.com/anuragraj/PgxSAVy/wiki/Installation).
