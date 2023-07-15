@@ -20,7 +20,7 @@ PgxSAVy offers quality checks specifically designed for proteogenomics searches,
 PgxSAVy is implemented in the cross-platform Perl programming language and is platform independent i.e. can be used on computers running Windows, Linux, or Mac OS X. PgxSAVy is freely available for academic use. You will need to download and setup Perl and some modules to use PgxSAVy. See instructions for [downloading and setting up PgxSAVy](https://github.com/anuragraj/PgxSAVy/wiki/Installation).
 
 ## Supported file formats
-- ### Tab Seperated Text format
+- ### Tab Separated Text format
 PgxSAVy can read inputs and write outputs in tab seperated text formats, making it easy to use. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki), including a list of [Frequently Asked Questions](https://github.com/anuragraj/PgxSAVy/wiki/faqs). Example sample files can be found [here](https://github.com/anuragraj/PgxSAVy/wiki/examples).
 
 - ### EuGenoSuite Output
