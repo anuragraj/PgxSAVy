@@ -10,7 +10,9 @@ PgxSAVy offers quality checks specifically designed for proteogenomics searches,
 -  SAV quality checks from proteogenomics searches
 -  Match quality checks
 -  Global search parameters (like Search engine counts , if multiple search tools used) and number of sibling PSMs
--  Isobaric checks with other amino acids
+-  Isobaric checks for other amino acids
+-  Isobaric checks for combination of 2 amino acids
+-  Isobaric checks for common modifications
 -  Checks with wild type peptide quality
 -  Checks with positional variant decoys   
 
