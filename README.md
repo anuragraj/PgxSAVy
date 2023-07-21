@@ -21,13 +21,13 @@ PgxSAVy is implemented in the cross-platform Perl programming language and is pl
 
 ## Supported file formats
 - ### Tab Separated Text format
-PgxSAVy can read inputs and write outputs in tab seperated text formats, making it easy to use. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki), including a list of [Frequently Asked Questions](https://github.com/anuragraj/PgxSAVy/wiki/faqs). Example sample files can be found [here](https://github.com/anuragraj/PgxSAVy/wiki/examples).
+PgxSAVy can read inputs and write outputs in tab seperated text formats, making it easy to use. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki), including a list of [Frequently Asked Questions](https://github.com/anuragraj/PgxSAVy/wiki/Frequently-Asked-Questions). Example sample files can be found [here](https://github.com/anuragraj/PgxSAVy/wiki/Examples).
 
 - ### EuGenoSuite Output
 PgxSAVy can read [EuGenoSuite](https://github.com/anuragraj/EuGenoSuite) proteogenomic search output directly. 
 
 ## Usage
-PgxSAVy is a command line tool. It can be used through Command Prompt on Windows and Terminal on Linux and Mac OS X. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki/usage) for more details.
+PgxSAVy is a command line tool. It can be used through Command Prompt on Windows and Terminal on Linux and Mac OS X. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki/Overview) for more details.
 
 
 ## License
