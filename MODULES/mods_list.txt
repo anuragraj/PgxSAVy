@@ -1,0 +1,116 @@
+#Name	MOD_ID	Description	Monoisotopic mass	Site	MOD	UnimodID	PSI-MS Name	Interim name	Description	Monoisotopic mass	Average mass	Composition
+acetylk	24	acetylation of K	42.01	K	ACET_core	1	Acetyl	Acetyl	Acetylation	42.010565	42.0367	H(2) C(2) O
+arg-13c6	136	heavy arginine-13C6	6.02	R	-	188	Label:13C(6)	13C6	13C(6) Silac label	6.020129	5.9559	C(-6) 13C(6)
+arg-13c6-15n4	137	heavy arginine-13C6-15N4	10.01	R	-	267	Label:13C(6)15N(4)	13C6-15N4	13C(6) 15N(4) Silac label	10.008269	9.9296	C(-6) 13C(6) N(-4) 15N(4)
+arg2orn	163	arginine to ornithine	-42.02	R	-	372	Arg->Orn	Arg2Orn	Ornithine from Arginine	-42.021798	-42.04	H(-2) C(-1) N(-2)
+beta-elim-s	140	beta elimination of S	-18.01	S	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+beta-elim-t	141	beta elimination of T	-18.01	T	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+bmethylthiold	26	beta-methylthiolation of D (duplicate of 13)	45.99	D	-	39	Methylthio	b-methylthiol	Beta-methylthiolation	45.987721	46.0916	H(2) C S
+carbamidomethylc	3	carbamidomethyl C	57.02	C	Cys_CAM	4	Carbamidomethyl	Carbamidomethyl	Iodoacetamide derivative	57.021464	57.0513	H(3) C(2) N O
+carbamidomethyld	29	carboxyamidomethylation of D	57.02	D	-	4	Carbamidomethyl	Carbamidomethyl	Iodoacetamide derivative	57.021464	57.0513	H(3) C(2) N O
+carbamidomethyle	30	carboxyamidomethylation of E	57.02	E	-	4	Carbamidomethyl	Carbamidomethyl	Iodoacetamide derivative	57.021464	57.0513	H(3) C(2) N O
+carbamidomethylk	27	carboxyamidomethylation of K	57.02	K	-	4	Carbamidomethyl	Carbamidomethyl	Iodoacetamide derivative	57.021464	57.0513	H(3) C(2) N O
+carbamidometylh	28	carboxyamidomethylation of H	57.02	H	-	4	Carbamidomethyl	Carbamidomethyl	Iodoacetamide derivative	57.021464	57.0513	H(3) C(2) N O
+carbamylk	31	carbamylation of K	43.01	K	CAM_core	5	Carbamyl	Carbamyl	Carbamylation	43.005814	43.0247	H C N O
+carboxykynurenin	165	carboxykynurenin of W	47.98	W	-	345	Trioxidation	Cysteic_acid	cysteine oxidation to cysteic acid	47.984744	47.9982	O(3)
+carboxymethylc	2	carboxymethyl C	58.01	C	Cys_CM	6	Carboxymethyl	Carboxymethyl	Iodoacetic acid derivative	58.005479	58.0361	H(2) C(2) O(2)
+citrullinationr	33	citrullination of R	0.98	R	-	7	Deamidated	Deamidation	Deamidation	0.984016	0.9848	H(-1) N(-1) O
+ctermamide	25	amidation of peptide c-term	-0.98	]	AMID	2	Amidated	Amide	Amidation	-0.984016	-0.9848	H N O(-1)
+ctermpepdio18	88	di-O18 on peptide n-term	4.01	[	-	193	Label:18O(2)	double_O18	O18 label at both C-terminal oxygens	4.008491	3.9995	O(-2) 18O(2)
+ctermpephselactm	57	homoserine lactone	-48	M	-	11	Met->Hsl	Hse_lact	Homoserine lactone	-48.003371	-48.1075	H(-4) C(-1) S(-1)
+ctermpephsem	56	homoserine	-29.99	M	-	10	Met->Hse	HSe	Homoserine	-29.992806	-30.0922	H(-2) C(-1) O S(-1)
+ctermpepmeester	68	methyl ester of peptide c-term (duplicate of 18)	14.02	]	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+ctermpepmethyl	18	methylation of peptide c-term	14.02	]	METH_cterm	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+ctermpepo18	87	O18 on peptide c-term	2	]	O18	258	Label:18O(1)	O18_STY	O18 Labeling	2.004246	1.9998	O(-1) 18O
+ctermpeptrideuteromethyl	21	tri-deuteromethylation of peptide c-term	17.03	]	-	298	Methyl:2H(3)	D3-Me-ester	deuterated methyl ester	17.03448	17.0451	H(-1) 2H(3) C
+cysteicacidc	34	oxidation of C to cysteic acid	47.98	C	-	345	Trioxidation	Cysteic_acid	cysteine oxidation to cysteic acid	47.984744	47.9982	O(3)
+deamidationkq	4	deamidation of N and Q	0.98	Q	DEAMID	7	Deamidated	Deamidation	Deamidation	0.984016	0.9848	H(-1) N(-1) O
+dehydro	164	dehydro of S and T	-18.01	T	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+dihydroxyf	39	oxidation of F to dihydroxyphenylalanine	31.99	F	-	425	Dioxidation	dihydroxy	dihydroxy	31.989829	31.9988	O(2)
+dimethylk	36	di-methylation of K	28.03	K	-	36	Dimethyl	di-Methylation	di-Methylation	28.0313	28.0532	H(4) C(2)
+dimethylr	37	di-methylation of R	28.03	R	-	36	Dimethyl	di-Methylation	di-Methylation	28.0313	28.0532	H(4) C(2)
+formylk	43	formylation of K	27.99	K	-	122	Formyl	Formyl	Formylation	27.994915	28.0101	C O
+formylkynureninw	45	oxidation of W to formylkynurenin	31.99	W	-	425	Dioxidation	dihydroxy	dihydroxy	31.989829	31.9988	O(2)
+gammacarboxyld	47	beta-carboxylation of D	43.99	D	-	299	Carboxy	carboxyl	Carboxylation	43.989829	44.0095	C O(2)
+gammacarboxyle	48	gamma-carboxylation of E	43.99	E	GGLU	299	Carboxy	carboxyl	Carboxylation	43.989829	44.0095	C O(2)
+guanidinationk	53	guanidination of K	42.02	K	Guanidination	52	Guanidinyl	Guanidination	Guanidination	42.021798	42.04	H(2) C N(2)
+his2asnh	54	oxidation of H to N	-23.02	H	-	348	His->Asn	His2Asn	His->Asn substitution	-23.015984	-23.0366	H(-1) C(-2) N(-1) O
+his2asph	55	oxidation of H to D	-22.03	D	-	349	His->Asp	His2Asp	His->Asp substitution	-22.031969	-22.0519	H(-2) C(-2) N(-2) O(2)
+hydroxykynureninw	58	oxidation of W to hydroxykynurenin	19.99	W	-	350	Trp->Hydroxykynurenin	hydroxykynurenin	tryptophan oxidation to hydroxykynurenin	19.989829	19.9881	C(-1) O(2)
+hydroxylationd	59	hydroxylation of D	15.99	D	HYDR	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+hydroxylationf	63	hydroxylation of F	15.99	F	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+hydroxylationk	60	hydroxylation of K	15.99	K	HYDR	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+hydroxylationn	61	hydroxylation of N	15.99	N	HYDR	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+hydroxylationp	62	hydroxylation of P	15.99	P	HYDR	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+hydroxylationy	64	hydroxylation of  Y	15.99	Y	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+kynureninw	66	oxidation of W to kynurenin	3.99	W	-	351	Trp->Kynurenin	kynurenin	tryptophan oxidation to kynurenin	3.994915	3.9887	C(-1) O
+lys-13c6	138	heavy lysine-13C6	6.02	K	-	188	Label:13C(6)	13C6	13C(6) Silac label	6.020129	5.9559	C(-6) 13C(6)
+lys-13C615N2	181	heavy lysine - 13C6 15N2	8.01	K	-	259	Label:13C(6)15N(2)	13C6-15N2	13C(6) 15N(2) Silac label	8.014199	7.9427	C(-6) 13C(6) N(-2) 15N(2)
+lys-2H4	180	heavy lysine - 2H4	4.03	K	-	481	Label:2H(4)	Lys4	"4,4,5,5-D4 Lysine"	4.025107	4.0246	H(-4) 2H(4)
+meesterd	69	methyl ester of D	14.02	D	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+meestere	70	methyl ester of E (duplicate of 17)	14.02	E	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+meesters	71	methyl ester of S	14.02	S	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+meestery	72	methyl ester of Y	14.02	Y	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methylc	73	methyl C	14.02	C	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methyld	16	methylation of D	14.02	D	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methyle	17	methylation of E	14.02	E	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methylh	74	methyl H	14.02	H	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methylk	0	methylation of K	14.02	K	METH_core	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methyln	75	methyl N	14.02	N	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methylq	14	methylation of Q	14.02	Q	-	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methylr	77	methyl R	14.02	R	METH_core	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+methythiold	13	beta methythiolation of D	45.99	D	-	39	Methylthio	b-methylthiol	Beta-methylthiolation	45.987721	46.0916	H(2) C S
+mmts	179	MMTS on C	45.99	C	-	39	Methylthio	b-methylthiol	Beta-methylthiolation	45.987721	46.0916	H(2) C S
+mod189	189	CHD2-di-methylation of K	32.06	K	-	199	Dimethyl:2H(4)	CHD2	DiMethyl-CHD2	32.056407	32.0778	2H(4) C(2)
+mod190	190	CHD2-di-methylation of peptide n-term	32.06	[	-	199	Dimethyl:2H(4)	CHD2	DiMethyl-CHD2	32.056407	32.0778	2H(4) C(2)
+mod192	192	phosphorylation of H	79.97	H	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+mod193	193	oxidation of C	15.99	C	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+mod194	194	oxidation of Y (duplicate of 64)	15.99	Y	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+mod196	196	deamidation of N	0.98	N	DEAM_N	7	Deamidated	Deamidation	Deamidation	0.984016	0.9848	H(-1) N(-1) O
+mod197	197	trideuteration of L (SILAC)	3.02	L	-	262	Label:2H(3)	D3_Label	Trideuteration	3.01883	3.0185	H(-3) 2H(3)
+mod206	206	selenocysteine	47.94	C	-	162	Delta:S(-1)Se(1)	SeMet	Selenium replaces sulfur	47.944449	46.895	S(-1) Se
+nipcam	84	NIPCAM	99.07	C	-	17	NIPCAM	NIPCAM	N-isopropylcarboxamidomethyl	99.068414	99.1311	H(9) C(5) N O
+nitrow	85	oxidation of W to nitro	44.99	W	-	354	Nitro	Nitro	Oxidation to nitro	44.985078	44.9976	H(-1) N O(2)
+nitroy	86	oxidation of Y to nitro	44.99	Y	-	354	Nitro	Nitro	Oxidation to nitro	44.985078	44.9976	H(-1) N O(2)
+ntermacetyl	10	acetylation of protein n-term	42.01	[	ACET_nterm	1	Acetyl	Acetyl	Acetylation	42.010565	42.0367	H(2) C(2) O
+ntermpepdimethyl	38	di-methylation of peptide n-term	28.03	[	-	36	Dimethyl	di-Methylation	di-Methylation	28.0313	28.0532	H(4) C(2)
+ntermpepformyl	44	formylation of peptide n-term	27.99	[	FORM	122	Formyl	Formyl	Formylation	27.994915	28.0101	C O
+ntermpepmethyl	76	methylation of peptide n-term	14.02	[	METH_nterm	34	Methyl	Methyl	Methylation	14.01565	14.0266	H(2) C
+ntermpeppropionyl	103	propionyl light on peptide n-term	56.03	[	-	58	Propionyl	Propionyl_light	Propionate labeling reagent light form (N-term & K)	56.026215	56.0633	H(4) C(3) O
+ntermpeppropionylheavy	105	propionyl heavy peptide n-term	59.04	[	-	59	Propionyl:13C(3)	Propionyl_heavy	"Propionate labeling reagent heavy form (+3amu), N-term & K"	59.036279	59.0412	H(4) 13C(3) O
+ntermpeppyrocmc	108	pyro-cmC	-17.03	C	PYRR	385	Ammonia-loss	N-oxobutanoic	Loss of ammonia	-17.026549	-17.0305	H(-3) N(-1)
+ntermpeptioacetyl	41	gammathiopropionylation of peptide n-term	88	[	-	126	Xlink:DTSSPN-term88]	DSP	Cleaved and reduced DSP/DTSSP crosslinker	87.998285	88.1283	H(4) C(3) O S
+oxy18	139	PNGasF in O18 water	2.99	N	-	366	Deamidated:18O(1)	Deamidation_O18	Deamidation in presence of O18	2.988261	2.9845	H(-1) N(-1) 18O
+oxyh	89	oxidation of H	15.99	H	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+oxym	1	oxidation of M	15.99	M	Oxidation_M	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+oxyw	90	oxidation of W	15.99	W	-	35	Oxidation	Hydroxylation	Oxidation or Hydroxylation	15.994915	15.9994	O
+phef	46	fluorophenylalanine	17.99	F	-	127	Fluoro	Fphe	fluorination	17.990578	17.9905	H(-1) F
+phosphoetdlosss	134	phosphorylation of S with ETD loss	79.97	S	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphoetdlosst	135	phosphorylation of T with ETD loss	79.97	T	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phospholosss	96	phosphorylation of S with prompt loss	-18.01	S	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+phospholosst	97	phosphorylation of T with prompt loss	-18.01	T	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+phospholossy	98	phosphorylation with prompt loss on Y	-18.01	Y	-	23	Dehydrated	Phospho+PL	Dehydration	-18.010565	-18.0153	H(-2) O(-1)
+phosphoneutrallossc	99	phosphorylation with neutral loss on C	79.97	C	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphoneutrallossd	100	phosphorylation with neutral loss on D	79.97	D	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphoneutrallossh	101	phosphorylation with neutral loss on H	79.97	H	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphoneutrallosss	132	phosphorylation with neutral loss on S	79.97	S	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphoneutrallosst	133	phosphorylation with neutral loss on T	79.97	T	-	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphorylations	6	phosphorylation of S	79.97	S	PHOS_ST	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphorylationt	7	phosphorylation of T	79.97	T	PHOS_ST	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+phosphorylationy	8	phosphorylation of Y	79.97	Y	PHOS_STY	21	Phospho	Phospho	Phosphorylation	79.966331	79.9799	H O(3) P
+propionamidec	5	propionamide C	71.04	C	Cys_PAM	24	Propionamide	Propionamide	Acrylamide adduct	71.037114	71.0779	H(5) C(3) N O
+propionylheavyk	104	propionyl heavy K	59.04	K	-	59	Propionyl:13C(3)	Propionyl_heavy	"Propionate labeling reagent heavy form (+3amu), N-term & K"	59.036279	59.0412	H(4) 13C(3) O
+propionylk	102	propionyl light K	56.03	K	-	58	Propionyl	Propionyl_light	Propionate labeling reagent light form (N-term & K)	56.026215	56.0633	H(4) C(3) O
+pyroglutamicp	111	oxidation of P to pyroglutamic acid	13.98	P	-	359	Pro->pyro-Glu	Pyroglutamic	proline oxidation to pyroglutamic acid	13.979265	13.9835	H(-2) O
+semetm	113	SeMet	47.94	M	-	162	Delta:S(-1)Se(1)	SeMet	Selenium replaces sulfur	47.944449	46.895	S(-1) Se
+spyridylethylc	112	s-pyridylethylation of C	105.06	C	Cys_PE	31	Pyridylethyl	S-pyridylethyl	S-pyridylethylation	105.057849	105.1372	H(7) C(7) N
+sulfationy	114	sulfation of Y	79.96	Y	-	40	Sulfo	Sulfation	O-Sulfonation	79.956815	80.0632	O(3) S
+sulfinicacid	162	oxidation of C to sulfinic acid	31.99	C	-	425	Dioxidation	dihydroxy	dihydroxy	31.989829	31.9988	O(2)
+suphonem	115	sulphone of M	31.99	M	-	425	Dioxidation	dihydroxy	dihydroxy	31.989829	31.9988	O(2)
+thioacetylk	40	gammathiopropionylation of K	88	K	-	126	Xlink:DTSSP[88]	DSP	Cleaved and reduced DSP/DTSSP crosslinker	87.998285	88.1283	H(4) C(3) O S
+trideuteromethyld	19	tri-deuteromethylation of D	17.03	D	-	298	Methyl:2H(3)	D3-Me-ester	deuterated methyl ester	17.03448	17.0451	H(-1) 2H(3) C
+trideuteromethyle	20	tri-deuteromethylation of E	17.03	E	-	298	Methyl:2H(3)	D3-Me-ester	deuterated methyl ester	17.03448	17.0451	H(-1) 2H(3) C
+trimethylationr	117	tri-methylation of R	42.05	R	-	37	Trimethyl	tri-Methylation	tri-Methylation	42.04695	42.0797	H(6) C(3)
+trimethylk	15	tri-methylation of K	42.05	K	-	37	Trimethyl	tri-Methylation	tri-Methylation	42.04695	42.0797	H(6) C(3)
+twoamino3oxobutanoicacid	23	2-amino-3-oxo-butanoic acid T	-2.02	T	-	401	Didehydro	didehydro	2-amino-3-oxo-butanoic_acid	-2.01565	-2.0159	H(-2)
+iTRAQ8plex	730	Representative mass and accurate mass for 113, 114, 116 & 117	304.20536	N-term	-	730	iTRAQ	iTRAQ8plex	Representative mass and accurate mass for 113, 114, 116 & 117	304.20536	304.2054	H(24) C(7) 13C(7) N(3) 15N O(3)
