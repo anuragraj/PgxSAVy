@@ -38,7 +38,6 @@ PgxSAVy is licensed under the [CC0-1.0 license](https://github.com/anuragraj/Pgx
 If you have any questions, comments, or suggestions, please contact Anurag Raj at anurag.igib@gmail.com or Dr Amit Kumar Yadav at amit.yadav@thsti.res.in.
 
 ## Citation
-If you use PgxSAVy in your research, please cite the following publication:
-```
-Raj, Anurag, Suruchi Aggarwal, Amit Kumar Yadav, and Debasis Dash. "Quality control and annotation of variant peptides identified through proteogenomics." bioRxiv (2023): 2023-05.
-```
+If you use PgxSAVy in your research, please cite the following publication:  
+Raj, Anurag, Suruchi Aggarwal, Amit Kumar Yadav, and Debasis Dash. "[Quality control and annotation of variant peptides identified through proteogenomics.](https://www.biorxiv.org/content/10.1101/2023.05.31.542998v2.full)" bioRxiv (2023): 2023-05. doi: https://doi.org/10.1101/2023.05.31.542998
+
