@@ -3,7 +3,7 @@
 </div>
 
 # PgxSAVy
-PgxSAVy is a tool for quality control and annotation of variant peptides identified in proteogenomics. It has demonstrated excellent performance across a wide range of datasets. PgxSAVy is suitable for rescoring variant proteogenomics search results as well as evaluating the quality of variant peptides identified in proteogenomics. PgxSAVy is available as a stand-alone tool, providing convenience and accessibility.  
+PgxSAVy is a tool for quality control and annotation of variant peptides identified in proteogenomics. It has been rigorously tested and has demonstrated excellent performance across a wide range of datasets- simulated and real-world. PgxSAVy is suitable for rescoring and quality assessment of variant PSMs from proteogenomics search results. PgxSAVy is available as a stand-alone command-line tool, providing freely available, easy-to-use, accessible open source utility.
 
 ## Features
 PgxSAVy offers quality checks specifically designed for proteogenomics searches, ensuring accurate and reliable results. The tool includes match quality checks to assess the quality and reliability of the identified variant peptides. It also performs isobaric checks, comparing variant peptides with other amino acids to identify potential similarities or discrepancies and using positional variant decoys to assess and validate the positional accuracy of identified variant peptides. The following feature checks are used for calculating the qulaity scores of variant peptides:
