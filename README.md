@@ -27,7 +27,7 @@ PgxSAVy can read inputs and write outputs in tab seperated text formats, making 
 PgxSAVy can read [EuGenoSuite](https://github.com/anuragraj/EuGenoSuite) proteogenomic search output directly. 
 
 ## Usage
-PgxSAVy is a command line tool. It can be used through Command Prompt on Windows and Terminal on Linux and Mac OS X. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki/Overview) for more details.
+PgxSAVy is a command line tool. It can be used through Command Prompt on Windows and Terminal on Linux and Mac OS X. See the [complete documentation](https://github.com/anuragraj/PgxSAVy/wiki/Overview) and [usage page](https://github.com/anuragraj/PgxSAVy/wiki/Usage) for more details.
 
 
 ## License
