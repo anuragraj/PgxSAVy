@@ -40,5 +40,5 @@ If you have any questions, comments, or suggestions, please contact Anurag Raj a
 
 ## Citation
 If you use PgxSAVy in your research, please cite the following publication:  
-Raj, Anurag, Suruchi Aggarwal, Amit Kumar Yadav, and Debasis Dash. "[Quality control of variant peptides identified through proteogenomics- catching the (un)usual suspects](https://www.biorxiv.org/content/10.1101/2023.05.31.542998v2.full)". bioRxiv (2023): 2023-05. doi: https://doi.org/10.1101/2023.05.31.542998
+Raj, A., Aggarwal, S., Singh, P., Yadav, A. K., & Dash, D. (2023). "[PgxSAVy: a tool for comprehensive evaluation of variant peptide quality in proteogenomics – catching the (un)usual suspects](https://www.sciencedirect.com/science/article/pii/S200103702300507X)". Computational and Structural Biotechnology Journal, 2023-12. doi:10.1016/j.csbj.2023.12.033
 
